@@ -27,4 +27,18 @@ It is designed to organize and share projects for various Nucleo and custom boar
 - Displies ( TFT-LCD, OLED, character-LCD, 7-Segment )
 - Moudules
 - Sensors
-- Keyboard, and etc. 
+- Keyboard, and etc.
+
+##Library MCU
+- Bare-Metal
+- LL and HAL
+- FreeRTOS
+
+## Compilers and Software 
+- STM32CubeMX
+- STM32CubeIDE
+- Keil
+- STM32CubePROG
+- Visual Studio Code
+- Altium Designer
+- Proteus
